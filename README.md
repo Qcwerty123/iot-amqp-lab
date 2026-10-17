@@ -1,8 +1,5 @@
 # Thực hành: Lập trình Python với giao thức AMQP
 
-- **Sinh viên:** Cao Công Hoè
-- **Mã sinh viên:** B23DCCN3349
-
 ## 1. Broker sử dụng
 
 | Thành phần | Giá trị |
